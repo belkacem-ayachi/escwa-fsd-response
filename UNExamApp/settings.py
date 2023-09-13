@@ -1,0 +1,1 @@
+BaseURL = "https://escwaapigateway.azure-api.net"
