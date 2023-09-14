@@ -135,7 +135,7 @@ LOGGING = {
         },
         "file": {
             "class": "logging.FileHandler",
-            "filename": "/log/UNExamApp.log",
+            "filename": "./log/UNExamApp.log",
         },
     },
     'root': {
